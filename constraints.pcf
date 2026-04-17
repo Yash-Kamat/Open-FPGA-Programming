@@ -1,5 +1,6 @@
-set_io led 39
+# I2C pins
+set_io scl 47
+set_io sda 44
 
-set_io led_r 39   # RGB0
-set_io led_g 40   # RGB1
-set_io led_b 41   # RGB2
+# RGB LED (use RGB0)
+set_io led 39
