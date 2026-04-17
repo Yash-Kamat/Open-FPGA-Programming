@@ -1,0 +1,5 @@
+set_io led 39
+
+set_io led_r 39   # RGB0
+set_io led_g 40   # RGB1
+set_io led_b 41   # RGB2
